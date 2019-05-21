@@ -1,5 +1,5 @@
-a = int(input("Podaj pierwszą liczbę"))
-b = int(input("Podaj drugą liczbę"))
+a = input("Podaj pierwszą liczbę:Ŕ ") # Brakuje castu na int
+b = input("Podaj drugą liczbę: ")
 
 print("Wynik: ")
 print(a + b)
